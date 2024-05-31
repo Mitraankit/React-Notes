@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Notes/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Notes/static/js/main.1be49316.js",
+    "static/js/453.2e597f08.chunk.js": "/React-Notes/static/js/453.2e597f08.chunk.js",
+    "static/media/add-note-illustration.svg": "/React-Notes/static/media/add-note-illustration.f6b9abf9662f83e71ae5d62919352c3a.svg",
+    "static/media/search-image.svg": "/React-Notes/static/media/search-image.26d77b9ad81d00bdabce2352e2d50c26.svg",
+    "index.html": "/React-Notes/index.html",
+    "main.e6c13ad2.css.map": "/React-Notes/static/css/main.e6c13ad2.css.map",
+    "main.1be49316.js.map": "/React-Notes/static/js/main.1be49316.js.map",
+    "453.2e597f08.chunk.js.map": "/React-Notes/static/js/453.2e597f08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1be49316.js"
+  ]
+}
